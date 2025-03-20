@@ -6,7 +6,7 @@ const MainModalhelper = ({ isOpen, onClose, children, isMobile }) => {
     // console.log(isMobile);
     return (
       <div className="fixed inset-0 sm:hidden bg-gray-400 bg-opacity-50 flex justify-center items-center z-50 px-2">
-        <a href="https://wa.me/9060510840" target="_blank">
+        <a href="https://wa.me/9241821868" target="_blank">
             <img src="hero.png" alt=""  className='object-cover'/>
         </a>
       </div>
